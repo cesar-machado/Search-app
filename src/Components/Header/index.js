@@ -4,7 +4,7 @@ import './style.css';
 
 function Header() {
     return (
-        <header id="main-header">Search-app</header>
+        <header id="main-header">Documentação de algumas Tecnologias</header>
       );
 }
 
