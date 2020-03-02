@@ -1,4 +1,4 @@
-#  Aplicação para encontra algumas Documentações de programação.
+#  Aplicação para encontrar algumas Documentações de programação.
 
 Esse app foi feito  adaptando a aula starter da Rocketseat.
 
