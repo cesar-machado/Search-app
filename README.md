@@ -1,8 +1,8 @@
 #  Aplicação para encontrar algumas Documentações de programação.
 
-Esse app foi feito  adaptando a aula starter da Rocketseat.
+Esse app foi feito  adaptando com a aula starter da Rocketseat, é um projeto para achar documentações de linguagens e tecnologias de programação.
 
-para Utilizar é só usar o comando Yarn Install para intalar as dependências.
+para Utilizar é só usar o comando Yarn Install para instalar as dependências.
 
 # Api-Rest
 
